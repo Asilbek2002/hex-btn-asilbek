@@ -1,0 +1,22 @@
+{
+  "name": "hex-btn-asilbek",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asilbek2002/hex-btn-asilbek.git"
+  },
+  "keywords": [
+    "asilbek"
+  ],
+  "author": "Asilbek Bekmurodov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Asilbek2002/hex-btn-asilbek/issues"
+  },
+  "homepage": "https://github.com/Asilbek2002/hex-btn-asilbek#readme"
+}
